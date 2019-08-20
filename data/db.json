@@ -1,0 +1,51 @@
+{
+  "categories": [
+    {
+      "name": "test name 3",
+      "display_name": "test display name 3",
+      "description": "test description 3",
+      "id": 1
+    },
+    {
+      "name": "test2",
+      "display_name": "test2",
+      "description": "test2",
+      "id": 2
+    },
+    {
+      "name": "test1",
+      "display_name": "test1",
+      "description": "test1",
+      "id": 3
+    },
+    {
+      "name": "asdf",
+      "display_name": "qwer",
+      "description": "jkl;",
+      "id": 4
+    }
+  ],
+  "products": [
+    {
+      "category": "test name 3",
+      "name": "test name 3",
+      "display_name": "test display name 3",
+      "description": "test description 3",
+      "id": 1
+    },
+    {
+      "category": "test2",
+      "name": "test2",
+      "display_name": "test2",
+      "description": "test2",
+      "id": 2
+    },
+    {
+      "category": "test1",
+      "name": "test1",
+      "display_name": "test1",
+      "description": "test1",
+      "id": 3
+    }
+  ]
+}

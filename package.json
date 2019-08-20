@@ -1,0 +1,20 @@
+{
+  "name": "401-lab-06",
+  "version": "1.0.0",
+  "description": "json-server --watch ./data/db.json",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erichuang-401-advanced-javascript/401-lab-06.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erichuang-401-advanced-javascript/401-lab-06/issues"
+  },
+  "homepage": "https://github.com/erichuang-401-advanced-javascript/401-lab-06#readme"
+}
